@@ -8,3 +8,4 @@ images/.DS_Store
 Group2_Phase1_baseline_LM1.ipynb
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.DS_Store
