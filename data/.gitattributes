@@ -1,2 +1,6 @@
 cadod.tar.gz filter=lfs diff=lfs merge=lfs -text
 img.npy filter=lfs diff=lfs merge=lfs -text
+img128.npy filter=lfs diff=lfs merge=lfs -text
+img32.npy filter=lfs diff=lfs merge=lfs -text
+y_bbox.npy filter=lfs diff=lfs merge=lfs -text
+y_label.npy filter=lfs diff=lfs merge=lfs -text
